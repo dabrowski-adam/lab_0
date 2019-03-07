@@ -12,7 +12,7 @@ import static org.junit.Assert.assertThat;
 public class TailsTest {
 
     private static final String HELLO = "Hello";
-    private static final Object FOURTH_ELEM_VALUE = "LO";
+    private static final Object FOURTH_ELEM_VALUE = "lo";
     private static final int FOURTH_ELEM_INDEX = 3;
     private TailsGenerator tailsGenerator;
     private List<String> tails;
